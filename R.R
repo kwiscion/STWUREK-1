@@ -1,5 +1,9 @@
+install.packages(c("dplyr", "tidyr", "RSQLite"))
+
 library(dplyr)
 library(tidyr)
+
+# DATA WRANGLING CHEAT SHEET http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
 
 # https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html
 # https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html
