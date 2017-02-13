@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1487007545502.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6787CD71",
+    "lastKnownWriteTime" : 19140779460001857,
+    "last_content_update" : 1487007545502,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "86481C",
+        "caption" : "smr",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=smr&cache_key=86481C",
+        "displayedObservations" : "1",
+        "environment" : "",
+        "object" : "smr",
+        "preview" : "0",
+        "totalObservations" : "1",
+        "variables" : "12"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
